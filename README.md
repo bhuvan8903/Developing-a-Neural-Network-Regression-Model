@@ -91,14 +91,21 @@ def train_model(ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ### Dataset Information
 Include screenshot of the generated data
+<img width="212" height="205" alt="image" src="https://github.com/user-attachments/assets/fadd1779-001f-41f2-b864-777cead0b5e1" />
+
 
 ### OUTPUT
 
+<img width="310" height="178" alt="image" src="https://github.com/user-attachments/assets/53371612-6519-43ba-80ff-d4b197b82126" />
+
 ### Training Loss Vs Iteration Plot
 Include your plot here
+<img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/3f32691d-6b97-438a-9f8d-57c6390abb6e" />
+
 
 ### New Sample Data Prediction
 Include your sample input and output here
+<img width="749" height="120" alt="image" src="https://github.com/user-attachments/assets/0095d3c4-1985-40c8-8b93-9b8d63a34d77" />
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
